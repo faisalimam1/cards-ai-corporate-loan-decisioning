@@ -232,19 +232,7 @@ This is **AI system engineering**, not a single model demo.
 
 ---
 
-## 10. Learning Outcomes (AI Engineer Perspective)
-
-This project demonstratesthe following AI engineering competencies:
-
-- Designing end-to-end AI decision systems, not isolated models  
-- Combining classical ML and LLMs with clear role boundaries  
-- Reasoning under uncertainty using confidence-aware model outputs  
-- Building explainable and auditable AI pipelines  
-- Applying AI responsibly within regulated, high-stakes domains   
-
----
-
-## 11. Future AI Enhancements
+## 10. Future AI Enhancements
 
 - Autonomous multi-agent risk analysis  
 - Continual learning from portfolio outcomes  
