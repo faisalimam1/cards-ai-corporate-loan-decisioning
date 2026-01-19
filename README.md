@@ -244,4 +244,6 @@ This is **AI system engineering**, not a single model demo.
 
 The above design shows how AI can be structured as a **reasoning system** that supports high-stakes decisions while remaining transparent, controllable, and explainable.
 ---
+![CARDS-AI Sequence Diagram](sequence-diagram.png)
+---
 ![CARDS-AI Full Visuals](Visuals.png)
