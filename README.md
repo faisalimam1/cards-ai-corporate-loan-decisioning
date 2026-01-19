@@ -63,7 +63,7 @@ CARDS-AI addresses these limitations by using:
        Decision Recommendation + Confidence
 
 ---
-![CARDS-AI Architecture](architecture.png)
+![CARDS-AI Architecture](Architecture.png)
 ---
 ## 4. AI Risk Intelligence Pipelines
 
