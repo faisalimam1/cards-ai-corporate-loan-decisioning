@@ -63,7 +63,8 @@ CARDS-AI addresses these limitations by using:
        Decision Recommendation + Confidence
 
 ---
-
+![CARDS-AI Architecture](architecture.png)
+---
 ## 4. AI Risk Intelligence Pipelines
 
 Each pipeline produces an **independent probabilistic risk signal**.
