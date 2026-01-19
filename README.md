@@ -1,6 +1,6 @@
 # Corporate-loan-decisioning
 Corporate loan decisioning system using ML + LLMs with explainable risk intelligence
-# CARDS-AI  
+# CARDS-AI (Corporate AI Risk & Decisioning System)
 ## A Corporate Loan Decisioning System  
 
 **Multi-Model Risk Intelligence · LLM-Assisted Reasoning · Explainable Decisions**
