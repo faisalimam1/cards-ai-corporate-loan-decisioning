@@ -38,29 +38,29 @@ CARDS-AI addresses these limitations by using:
 
 ## 3. AI System Overview
 
-       Loan Application
-               │
-               ▼
-       AI Data Representation Layer
-               │
-               ▼
-┌───────────────────────────────────────────────┐
-│ Parallel AI Risk Intelligence Pipelines       │
-└───────────────────────────────────────────────┘
-  │           │           │           │       │
-  ▼           ▼           ▼           ▼       ▼
-Financial  Behavioral  Macro-Geo   ESG-NLP  Policy
-  ML         ML         AI          AI        AI
-  ─────────────────────────────────────────────────
-                 │
-                 ▼
-AI Risk Fusion & Reasoning Layer
-                 │
-                 ▼
-LLM-Assisted Explanation Generator
-                 │
-                 ▼
-Decision Recommendation + Confidence
+              Loan Application
+                      │
+                      ▼
+              AI Data Representation Layer
+                      │
+                      ▼
+       ┌───────────────────────────────────────────────┐
+       │ Parallel AI Risk Intelligence Pipelines       │
+       └───────────────────────────────────────────────┘
+         │           │           │           │       │
+         ▼           ▼           ▼           ▼       ▼
+       Financial  Behavioral  Macro-Geo   ESG-NLP  Policy
+         ML         ML         AI          AI        AI
+         ─────────────────────────────────────────────────
+                        │
+                        ▼
+       AI Risk Fusion & Reasoning Layer
+                        │
+                        ▼
+       LLM-Assisted Explanation Generator
+                        │
+                        ▼
+       Decision Recommendation + Confidence
 
 ---
 
