@@ -1,7 +1,7 @@
-# cards-ai-corporate-loan-decisioning
+# Corporate-loan-decisioning
 Corporate loan decisioning system using ML + LLMs with explainable risk intelligence
 # CARDS-AI  
-## An AI-First Corporate Loan Decisioning System  
+## A Corporate Loan Decisioning System  
 
 **Multi-Model Risk Intelligence · LLM-Assisted Reasoning · Explainable Decisions**
 
@@ -251,7 +251,5 @@ This project demonstrates:
 - Portfolio-level optimization agents  
 
 ---
-
-## Closing
 
 CARDS-AI shows how AI can be structured as a **reasoning system** that supports high-stakes decisions while remaining transparent, controllable, and explainable.
