@@ -234,13 +234,13 @@ This is **AI system engineering**, not a single model demo.
 
 ## 10. Learning Outcomes (AI Engineer Perspective)
 
-This project demonstrates:
+This project demonstratesthe following AI engineering competencies:
 
-- Designing AI systems, not just models  
-- Combining ML and LLMs responsibly  
-- Handling real-world uncertainty  
-- Building explainable AI pipelines  
-- Aligning AI with regulated domains  
+- Designing end-to-end AI decision systems, not isolated models  
+- Combining classical ML and LLMs with clear role boundaries  
+- Reasoning under uncertainty using confidence-aware model outputs  
+- Building explainable and auditable AI pipelines  
+- Applying AI responsibly within regulated, high-stakes domains   
 
 ---
 
