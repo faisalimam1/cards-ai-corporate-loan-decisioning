@@ -248,6 +248,4 @@ The above design shows how AI can be structured as a **reasoning system** that s
 ## Sequence Diagram
 ![CARDS-AI Sequence Diagram](sequence-diagram.png)
 
----
-## Full Visuals
-![CARDS-AI Full Visuals](Visuals.png)
+
